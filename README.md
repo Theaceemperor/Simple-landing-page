@@ -1,7 +1,7 @@
 This is a simple landing page website, optimized for performance.
 
 This website was built using:
-HTML
+javaScript
 Tailwindcss
 Next.js
 
